@@ -1,0 +1,1 @@
+print("El area del cuadrado es: ", 5*5)
